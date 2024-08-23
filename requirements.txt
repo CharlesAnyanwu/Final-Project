@@ -14,5 +14,4 @@ youtube-transcript-api==0.6.1
 Pillow==9.5.0
 tiktoken==0.3.3
 faiss-cpu==1.7.4
-tiktoken==0.3.3
 tiktoken==0.5.1
